@@ -10,4 +10,4 @@ The completed code performs:
  * Cropping of detected face;
  * Allocation of 68 facial keypoints, including points around eyes, nose and mouth.
 
-![image1] (https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/images/landmarks_numbered.jpg)
+![image1](https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/images/landmarks_numbered.jpg)
