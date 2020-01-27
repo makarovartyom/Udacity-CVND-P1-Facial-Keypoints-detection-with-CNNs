@@ -3,7 +3,8 @@
 ## Project Overview
 
 First project from Udacity Computer Vision [Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
-The goal is to build a complete pipeline for facial keypoint detection in images, combining computer vision and deep learning techniques.
+The goal is to build a complete pipeline for facial keypoint detection in images, combining computer vision and deep learning techniques. <br>
+
 The completed code performs:
 
  * Face detection in image sample (detector based on Haar Cascade);
