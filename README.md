@@ -25,12 +25,12 @@ Upcoming improvements will include:
  - Enlarge training and test datasets in order to remove bias between front and profile face samples. 
  - Modify the model's architecture in order to reduce the error. 
 
-<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img1.png" width=200, height=150 align="center"/>
-<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img2.png" width=200, height=150 align="center"/>
-<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img3.png" width=200, height=150 align="center"/>
-<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img4.png" width=200, height=150 align="center"/>
-<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img5.png" width=200, height=150 align="center"/>
-<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img6.png" width=200, height=150 align="center"/>
-<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img7.png" width=200, height=150 align="center"/>
+<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img1.png" width=150, height=150 align="center"/>
+<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img2.png" width=150, height=150 align="center"/>
+<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img3.png" width=150, height=150 align="center"/>
+<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img4.png" width=150, height=150 align="center"/>
+<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img5.png" width=150, height=150 align="center"/>
+<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img6.png" width=150, height=150 align="center"/>
+<img src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img7.png" width=150, height=150 align="center"/>
 <img
-src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img8.png" width=200, height=150 align="center"/>
+src="https://github.com/MakarovArtyom/Udacity-CVND-P1-Facial-Keypoints-detection-with-CNNs/blob/master/model_results/img8.png" width=150, height=150 align="center"/>
